@@ -1,0 +1,14 @@
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\bin\Debug\net8.0\connected_example.exe
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\bin\Debug\net8.0\connected_example.deps.json
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\bin\Debug\net8.0\connected_example.runtimeconfig.json
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\bin\Debug\net8.0\connected_example.dll
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\bin\Debug\net8.0\connected_example.pdb
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\connected_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\connected_example.AssemblyInfoInputs.cache
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\connected_example.AssemblyInfo.cs
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\connected_example.csproj.CoreCompileInputs.cache
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\connected_example.dll
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\refint\connected_example.dll
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\connected_example.pdb
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\connected_example.genruntimeconfig.cache
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\ref\connected_example.dll

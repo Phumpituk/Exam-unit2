@@ -12,3 +12,4 @@ C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignmen
 C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\connected_example.pdb
 C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\connected_example.genruntimeconfig.cache
 C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\ref\connected_example.dll
+C:\Users\Themo\OneDrive\Documents\Programming2\Exam\Exam unit2\module2_assignment-main\Exam unit2\obj\Debug\net8.0\connected_example.sourcelink.json

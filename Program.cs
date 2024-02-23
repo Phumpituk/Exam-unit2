@@ -93,8 +93,6 @@ Console.WriteLine($"TASK: {ANSICodes.Effects.Bold}{task3?.title}{ANSICodes.Reset
 
 
 // Calculate the answer to the task
-
-// Convert prime numbers list to string for sending back as a response
 static string GetUniqueWordsInAlphabeticalOrder(string input)
 {
     // Split the input string into words
@@ -122,9 +120,23 @@ taskID = "psu31_4"; // We get the taskID from the previous response and use it t
 Console.WriteLine("\n-----------------------------------\n");
 Console.WriteLine(task2Response);
 
+//#### THIRD TASK
+// Fetch the details of the task from the server.
+Response task4Response = await httpUtils.Get(baseURL + taskEndpoint + myPersonalID + "/" + taskID); // Get the task from the server
+Console.WriteLine(task4Response);
+Task task4 = JsonSerializer.Deserialize<Task>(task4Response.content);
+Console.WriteLine($"TASK: {ANSICodes.Effects.Bold}{task4?.title}{ANSICodes.Reset}\n{task4?.description}\nParameters: {Colors.Yellow}{task4?.parameters}{ANSICodes.Reset}");
 
 
+var answer4 = task4?.parameters.Split(",").Select(p => int.Parse(p.Trim())).Aggregate<int, int>(0, (acc, n) => acc + n);
 
+// Send the answer to the server
+Response task4AnswerResponse = await httpUtils.Post(baseURL + taskEndpoint + myPersonalID + "/" + taskID, answer4.ToString());
+Console.WriteLine($"Answer: {Colors.Green}{task4AnswerResponse}{ANSICodes.Reset}");
+
+taskID = "psu31_4"; // We get the taskID from the previous response and use it to get the task (look at the console output to find the taskID)
+
+Console.WriteLine("\n-----------------------------------\n");
 
 
 class Task
